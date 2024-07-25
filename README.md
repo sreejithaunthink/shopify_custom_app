@@ -19,7 +19,7 @@ Before you begin, you'll need the following:
 
 ### Local Development
 
-use *** shopify app dev or shopify run dev  *** to run the code on shopify cli
+use ` shopify app dev or shopify run dev  ` to run the code on shopify cli
 
 
 Press P to open the URL[preview URL on the terminal ] to your app. Once you click install, you can start development.
@@ -65,4 +65,4 @@ Please read the [documentation for @shopify/shopify-app-remix](https://www.npmjs
 for testing the graghql query use
 GraphiQL URL: http://localhost:3457/graphiql 
 ## Deployment
-use ***shopify app deploy*** to deploy the changes.
+use `shopify app deploy` to deploy the changes.
