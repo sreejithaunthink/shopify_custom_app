@@ -3,7 +3,7 @@
 client_id = "a2178149d3f0f60a815c85430a0c627b"
 name = "unthink-aura-connect"
 handle = "unthink-aura-connect"
-application_url = "https://letter-definitely-popularity-establish.trycloudflare.com"
+application_url = "https://cricket-activated-discussions-finder.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://letter-definitely-popularity-establish.trycloudflare.com/auth/callback",
-  "https://letter-definitely-popularity-establish.trycloudflare.com/auth/shopify/callback",
-  "https://letter-definitely-popularity-establish.trycloudflare.com/api/auth/callback"
+  "https://cricket-activated-discussions-finder.trycloudflare.com/auth/callback",
+  "https://cricket-activated-discussions-finder.trycloudflare.com/auth/shopify/callback",
+  "https://cricket-activated-discussions-finder.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
